@@ -3,32 +3,21 @@
 1. First Name, Last Name **(real ones) this is bold text**
 2. *Contact Info (this is italic text)*  _**(add several ways to contact you)this is italic and bold text**_
 Test github [link](https://github.com/Kopochev)
-Test direct link https://github.com/Kopochev
+Test direct link [link](https://github.com/Kopochev)   [https://github.com/Kopochev]
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
 Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
 learning new things from everywhere etc.).
-Test code text via 4 spaces:
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/main.css">
-    <title>Работа с git</title>
-    </head>
-    <body>
-    <h1>Hello</h1>
-    <p>Git + Github</p>
-    </body>
-    </html>
-test code texe via ```
+
+## <h2> Test 
+
+
+### <h3> test code text via ```
 ```
 if (isAwesome){
   return true
 }
 ```
-test code texe via ``` with name language
+#### <h4> test code text via ``` with name language
 ``` html
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quas maxime nulla earum quaerat, numquam commodi dolore molestiae nemo suscipit, alias, enim error. Tempore nemo aliquid unde natus dolores! Asperiores!</p>
 ```
@@ -57,3 +46,8 @@ Alternatively,
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And this
+### <h3> test
+# h1 tesr
+some textsome textsome textsome textsome textsome textsome textsome text
+some textsome textsome textsome textsome text
+some textsome textsome text
