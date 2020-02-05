@@ -2,8 +2,12 @@
 
 1. First Name, Last Name **(real ones) this is bold text**
 2. *Contact Info (this is italic text)*  _**(add several ways to contact you)this is italic and bold text**_
+
 Test github [link](https://github.com/Kopochev)
-Test direct link [link](https://github.com/Kopochev)   [https://github.com/Kopochev]
+
+Test direct link [link](https://github.com/Kopochev)  
+ 
+[https://github.com/Kopochev]
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
 Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
 learning new things from everywhere etc.).
@@ -47,7 +51,7 @@ Alternatively,
   - Like this
   - And this
 ### <h3> test
-# h1 tesr
+# h1 test
 some textsome textsome textsome textsome textsome textsome textsome text
 some textsome textsome textsome textsome text
 some textsome textsome text
